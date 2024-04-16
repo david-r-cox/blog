@@ -14,7 +14,7 @@ export const SITE_METADATA = {
   email : 'david_cox@hey.com',
   github : 'https://github.com/david-r-cox',
   twitter : 'https://twitter.com/d4r5c2',
-  linkedin : 'https://www.linkedin.com/in/davidcox143/'
+  linkedin : 'https://www.linkedin.com/in/d4r5c2/'
 
 };
 
