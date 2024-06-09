@@ -1,3 +1,3 @@
 # blog
 
-Built with [`wanoo21/tailwind-astro-starting-blog`](https://github.com/wanoo21/tailwind-astro-starting-blog).
+Built with [`vercel/nextjs-portfolio-starter`](https://github.com/vercel/nextjs-portfolio-starter.git).

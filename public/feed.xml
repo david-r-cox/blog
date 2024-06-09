@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[David Robert Cox]]></title>
+        <description><![CDATA[David Robert Cox]]></description>
+        <link>https://davidcox.net</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 09 Jun 2024 20:55:06 GMT</lastBuildDate>
+        <atom:link href="https://davidcox.net/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Symmetry-Breaking via Nogood Derivation]]></title>
+            <description><![CDATA[Constraint learning through nogood derivation promises more powerful symmetry handling by accumulating reasons for propagation failures into reusable constraints...]]></description>
+            <link>/posts/symmetry-breaking-via-nogoods</link>
+            <guid isPermaLink="true">/posts/symmetry-breaking-via-nogoods</guid>
+            <pubDate>Thu, 11 Jan 2024 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MPS: From Punch Cards to Rust]]></title>
+            <description><![CDATA[The venerable MPS optimization file format has its share of odd conventions and limitations inherited from its 1960s punch card origins.]]></description>
+            <link>/posts/mps</link>
+            <guid isPermaLink="true">/posts/mps</guid>
+            <pubDate>Tue, 09 Jan 2024 08:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
